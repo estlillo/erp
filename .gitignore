@@ -1,4 +1,5 @@
 /bootstrap/compiled.php
+<<<<<<< HEAD
 /vendor
 /nbproject
 composer.phar
@@ -11,3 +12,8 @@ Thumbs.db
 /public/archivos/facturas_recibidas/3_1_1era fact mantencion evolutiva web bips abril 35hh.pdf
 /public/archivos/comprobantes/3_1_Acta Entrega HitoII. Desarrollo y Certificación Sistema Inventario y Materiales Subdere 2013.pdf
 /public/archivos/*
+=======
+.env.*.php
+.env.php
+.env
+>>>>>>> dd4347b6843d5e596835636b42ed1d7daa49680e
