@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+/vendor
+/nbproject
+composer.phar
+.env.local.php
+.env.php
+.DS_Store
+Thumbs.db
+/public/archivos/comprobantes/3_1_111CC_cake_db.sql
+/public/archivos/comprobantes/3_1_1era fact mantencion evolutiva web bips abril 35hh.pdf
+/public/archivos/facturas_recibidas/3_1_1era fact mantencion evolutiva web bips abril 35hh.pdf
+/public/archivos/comprobantes/3_1_Acta Entrega HitoII. Desarrollo y Certificación Sistema Inventario y Materiales Subdere 2013.pdf
+/public/archivos/*

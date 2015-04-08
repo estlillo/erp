@@ -1,0 +1,7 @@
+<?php
+
+return array(
+	'DB_NAME' => 'db',
+	'DB_USERNAME' => 'user',
+	'DB_PASSWORD' => 'pass'
+);
